@@ -14,4 +14,4 @@ I am an iOS developer and software engineer who has acquired skills in a self-ta
 [![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
-<img align="left" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="left" width=120px height=120px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
