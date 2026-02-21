@@ -15,6 +15,6 @@ I am an iOS developer and software engineer who has acquired skills in a self-ta
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
-  <img align="left" width="120px" height="120px" alt="" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/transparent.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="./nodes-light.gif">
+  <img align="left" width="120px" height="120px" alt="side_sticker" src="./nodes-dark.gif" />
 </picture>
