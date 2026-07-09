@@ -12,7 +12,7 @@
                     <span style="color: magenta;">Memory:</span>   <span style="color: white;">As good as a goldfish's</span>
                     <span style="color: magenta;">Battery:</span>  <span style="color: white;">Powered by coffee</span>
                     <span style="color: magenta;">Hobbies.Software:</span> <span style="color: white;">Reverse-Engineering the Hiss, Barricading Hideouts</span>
-                    <span style="color: magenta;">Hobbies.Hardware:</span> <span style="color: white;">Overclocking, Undervolting</span>
+                    <span style="color: magenta;">Hobbies.Hardware:</span> <span style="color: white;">Overclocking, Undervolting, Reviving dead PP3V3_G3H rails</span>
 
 <span style="color: lightgreen;">❯</span> cat about.md
 iOS dev by trade, self-taught by necessity. Fluent in Swift,
