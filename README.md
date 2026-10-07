@@ -54,6 +54,7 @@ Perpetually updating — no reboot required.
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 ![Static Badge](https://img.shields.io/badge/Video_Editor-a?logo=airplayvideo&logoColor=white&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/Audio_Editor-a?logo=airplayaudio&logoColor=white&color=%23000000)
-![Manim](https://img.shields.io/badge/Manim-1F425F?style=flat-square&logo=python&logoColor=white)
 [![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+![Manim](https://img.shields.io/badge/Manim-1F425F?style=flat-square&logo=python&logoColor=white)
+[![Espressif](https://img.shields.io/badge/Platform-ESP32-informational?style=flat&logo=Arduino&logoColor=white&color=00979D)](#)
